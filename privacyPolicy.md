@@ -1,67 +1,102 @@
-プライバシーポリシー（案）
-最終更新日：2026年3月20日
+プライバシーポリシー
+最終更新日：2026年6月8日
 
 1. はじめに
-本プライバシーポリシーは、「World Sudoku」（以下「本アプリ」）がユーザーの情報をどのように扱うかを説明します。本アプリを利用することで、本プライバシーポリシーに同意したものとみなされます。
+
+本プライバシーポリシーは、「WorldNumberPlace」（以下「本アプリ」）がユーザーの情報をどのように扱うかを説明します。本アプリを利用することで、本プライバシーポリシーに同意したものとみなされます。
 
 2. 運営者（提供者）
+
 運営者：（hakuchan）
 連絡先：（karityhi@icloud.com）
 お問い合わせ：アプリ内「お問い合わせ」から外部フォームに移動して行います。
 
 3. 本アプリが取得する情報
+
 本アプリは、主に以下の情報を取得または利用します。
 
 3.1 解析（Firebase Analytics / GA4）
+
 本アプリは利用状況の解析のため、Firebase Analytics（Googleの分析基盤）を使用します。取得する可能性のある情報には、次のようなデータが含まれます。
-デバイス情報（例：OS、デバイスカテゴリ、デバイスモデル等）
-自動収集される技術情報（例：アクセス状況、地域情報として国/地域等）
-本アプリ内のイベント情報（例）
+
+・デバイス情報（例：OS、デバイスカテゴリ、デバイスモデル等）
+・自動収集される技術情報（例：アクセス状況、地域情報として国/地域等）
+
+・本アプリ内のイベント情報（例）
+
 app_open, home_view, play_view, result_view
-ゲーム進行関連：game_start, game_clear, game_abandon
-パラメータ例：mode, difficulty, script, mix_count, elapsed_sec
-設定関連：language_change, settings_item_tap, script_preview_open
-広告関連：ad_banner_impression, ad_rewarded_*
-課金関連：remove_ads_tap, purchase_start, purchase_success, purchase_fail, restore_success, restore_fail
+
+ゲーム進行関連：
+game_start, game_clear, game_abandon
+
+パラメータ例：
+mode, difficulty, script, mix_count, elapsed_sec
+
+設定関連：
+language_change, settings_item_tap, script_preview_open
+
+広告関連：
+ad_banner_impression, ad_rewarded_*
+
+課金関連：
+remove_ads_tap, purchase_start, purchase_success, purchase_fail, restore_success, restore_fail
+
 なお、本アプリでは、解析のためにメールアドレス等の個人を直接特定できる情報（PII）や、自由入力の本文などは送信しない方針です。
 
 3.2 広告（Google AdMob）
+
 本アプリは広告表示のため、Google AdMobを使用します。広告配信のために、広告の表示・計測に必要な情報（デバイス情報、広告リクエスト情報等）が利用される場合があります。
 
 3.3 広告削除（In-App Purchase）
+
 本アプリは「広告削除」購入（および復元）のため、アプリ内課金（App Store / Google Play の仕組み）を利用します。本アプリは、支払いのためのカード情報等を受け取ったり保存したりすることはありません。購入結果（成功/失敗/復元など）はアプリ内で反映され、あわせて解析イベントが送信される場合があります。
 
 3.4 お問い合わせ（外部フォーム）
+
 本アプリ内の「お問い合わせ」は外部フォーム（例：Googleフォーム）へ遷移します。フォームに入力された情報は、その外部サービスのプライバシーポリシーに従って取り扱われます。
 
 6. 情報の利用目的
+
 取得した情報は、主に以下の目的で利用します。
-本アプリの機能改善、ユーザー体験の向上
-利用状況の分析（例：ゲームプレイ導線、クリア率、離脱ポイント等）
-広告の配信・効果測定、広告体験の最適化
-課金機能（広告削除）の提供および購入状況の管理
-問い合わせ対応
+
+・本アプリの機能改善、ユーザー体験の向上
+・利用状況の分析（例：ゲームプレイ導線、クリア率、離脱ポイント等）
+・広告の配信・効果測定、広告体験の最適化
+・課金機能（広告削除）の提供および購入状況の管理
+・問い合わせ対応
 
 7. 情報の共有について
+
 本アプリは、上記の目的のために、次のような第三者と情報を共有する場合があります。
-Firebase Analytics（Google）
-Google AdMob（広告配信・計測）
-App Store / Google Play（アプリ内課金の処理）
-お問い合わせ先の外部フォーム提供事業者
+
+・Firebase Analytics（Google）
+・Google AdMob（広告配信・計測）
+・App Store / Google Play（アプリ内課金の処理）
+・お問い合わせ先の外部フォーム提供事業者
+
 なお、本アプリは、取得した情報を第三者に販売することはありません（必要に応じて追記してください）。
 
 7.1 iOSの追跡許可（ATT）
+
 本アプリはiOSにおいて、App Tracking Transparency（ATT）に基づく追跡許可をユーザーに求めます。ユーザーが許可しない場合、追跡に関する利用が制限されることがあります。
+
 7.2 広告設定
+
 広告の表示に関して、端末の設定や広告パーソナライズに関する各種設定により、広告の種類が変わる場合があります。
 
 8. 保有期間について
+
 情報の保有期間は、各サービス提供事業者のポリシーおよび設定に従います。本アプリ側で不要になった情報は適切に取り扱います（期間を明確にしたい場合は追記してください）。
 
 10. 本ポリシーの変更
+
 本アプリは、必要に応じて本プライバシーポリシーを変更することがあります。重要な変更がある場合は、アプリ内または本ポリシーの掲載場所でお知らせします。
 
 11. 連絡先
+
 本ポリシーに関するお問い合わせは、アプリ内「お問い合わせ」または以下の連絡先からお願いします。
+
 連絡先：（karityhi_dev@icloud.com）
-お問い合わせフォーム：（https://docs.google.com/forms/d/1V1HoLSnnFebWcTS40Xc7GuLJjpHC7Eqf1Wr5inOnZI0/edit）
+
+お問い合わせフォーム：
+https://docs.google.com/forms/d/1V1HoLSnnFebWcTS40Xc7GuLJjpHC7Eqf1Wr5inOnZI0/edit
